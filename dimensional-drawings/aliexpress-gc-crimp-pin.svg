@@ -1,0 +1,4846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="gc-pin-dimensions.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="283.25"
+     inkscape:cy="723.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g110329-6-2"
+     inkscape:snap-grids="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-page="false"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid981"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2382"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2380" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1897" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1915" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1921" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1903" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1909" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1906" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1894" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1891" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1888" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-0-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-701"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-94" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-18"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-93" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-7-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-1-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-2-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-5-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-8-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-0-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-58"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-41"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-13"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-53" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-41-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-13-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-53-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-2-6-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-5-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-8-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-0-2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-2-6-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-5-1-4-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-8-1-0-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-0-2-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-13"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-701-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-94-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-18-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-1-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-58-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-31"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-4-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-59" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-0-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-13-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-5-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-3-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-3-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-4-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-5-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-1-1-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-4-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-59-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-5-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-97"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-701-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-94-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-18-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-49"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-9-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-58-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-4-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-55" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-75" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-43"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-48"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-17"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-28" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-17-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-2-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-28-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-41-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-4-70" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-13-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-53-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-8-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-1-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-8-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-73" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-1-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-87" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-1-63"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-9-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-8-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-1-8-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-1-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-9-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-8-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-1-1-6-1-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-8-6-5-1-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-5-6-0-9-2-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-8-0-7-8-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-6-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-4-8-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-2-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-2-5-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-92"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-72" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-6-9-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-4-8-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-2-9-4-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-2-5-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-92-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-72-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-7-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-92-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-72-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-0-8-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-7-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-92-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-72-0-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-0-8-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-7-0-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-13-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-7-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-2-98" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-3-5-65"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-4-6-78" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-5-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-1-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-5-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-92-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-7-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-4-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-59-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-4-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3-45" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1-48" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0-5-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1-48-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3-0-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0-5-8-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1-48-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2-9-4-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3-0-9-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-0-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-1-48-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-2-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-3-0-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-89"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-83" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-92-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-72-0-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-0-8-88"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-7-0-69" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-9-41-0-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-6-4-70-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-6-13-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-1-53-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-62"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-67" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-03" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-701-45"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-94-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-18-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-3-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-9-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-9-77" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-07-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-76"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7-3-87"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-5-4-69" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-9-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-7-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-64"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-45" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-9-54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-58-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-12" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-93"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-1-6-91"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-0-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-4-3-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-8-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-92"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-94"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-9-4-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-5-9-89" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-9-3-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-8-6-78" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-70-8-3-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-6-01-0-81" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1-5-1-25"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-0-6-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-6-61" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-2-30"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-0-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-9-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-0-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-3-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-9-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-3-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-29"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-69"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-0-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-9-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-8-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-3-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-8-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-3-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-3-8-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-1-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-8-2-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-3-2-9-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-3-8-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-1-5-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-85"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-4-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-4-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-8-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-41" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-85-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-8-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-0-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-0-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-3-4-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-9-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-3-9-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-0-6-9-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-3-4-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-9-5-6-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-3-9-4-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2-9-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6-5-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-8-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-4-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-8-8-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-4-5-0-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-8-8-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5-3-9-2-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2024-1-68-8-6-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-16-7-8-6-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2033-4-74-8-4-3-1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0015875;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stroke-opacity:0;-inkscape-stroke:hairline;stop-color:#000000"
+       id="rect3224"
+       width="210"
+       height="148"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:6px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:2.64583"
+       x="10"
+       y="140"
+       id="text7349-2-4-7-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan7347-9-1-9-4-3"
+         style="font-size:6px;text-align:start;text-anchor:start;stroke-width:2.64583"
+         x="10"
+         y="140">All dimensions in mm. Document scale x10.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6px;text-align:start;text-anchor:start;stroke-width:2.64583"
+         x="10"
+         y="147.5"
+         id="tspan7365" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.5px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:0.264583"
+       x="110.92387"
+       y="67.5"
+       id="text7349-1-7-8-3-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan7347-7-8-1-3-9-8"
+         style="font-size:0.5px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="110.92387"
+         y="67.5" /></text>
+    <g
+       id="g110329-6"
+       transform="translate(0,18)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="20"
+         y="39"
+         id="text112515-0"><tspan
+           sodipodi:role="line"
+           style="font-size:6px;stroke-width:0.264583"
+           x="20"
+           y="39"
+           id="tspan5621">Crimp pin side</tspan></text>
+      <path
+         id="rect850-0-6-8"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 55,10 h 9 v 3 h 17 v -3 h 9 V 22 H 55 Z"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         id="rect850-0-2-1-1"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 81,12 H 80 L 66,7 67,5 81,10"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect850-0-2-3-9-0"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 55,22 H 20 V 8 h 8 l 1,12 h 8 l 1,-10 h 10 l 1,10 h 6"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="rect850-0-6-5-1-0-5-1"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 49,22 V 20"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-2-5-0-4"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 157,11 h 7 v 2 h -7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect850-0-2-0-6-9"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 90,20 h 7 l 39,-9 9,-9 h 2 l 9,9 h 1 v 2 h -2 l -9,-9 -9,9 -39,9 h -8"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3);marker-end:url(#TriangleOutM-16-7)"
+         d="m 56,24 33,0.0045"
+         id="path1853-18-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-85);marker-end:url(#TriangleOutM-16-7-2)"
+         d="m 91,14 h 6"
+         id="path1853-18-3-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-8);marker-end:url(#TriangleOutM-16-7-3)"
+         d="M 59,21 V 11"
+         id="path1853-18-3-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-1);marker-end:url(#TriangleOutM-16-7-0)"
+         d="M 21,23.9955 54,24"
+         id="path1853-18-3-3"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="72"
+         y="29"
+         id="text7349-08-3"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="72"
+           y="29">3.5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="94"
+         y="13"
+         id="text7349-08-3-5"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-5"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="94"
+           y="13">0.8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="37"
+         y="29"
+         id="text7349-08-3-8"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-3"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="37"
+           y="29">3.5</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 90,25 V 23"
+         id="path27547-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-0-6);marker-end:url(#TriangleOutM-16-7-8-9-5)"
+         d="M 163,21 V 14"
+         id="path1853-18-3-5-4-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-0-6-9);marker-end:url(#TriangleOutM-16-7-8-9-5-6)"
+         d="M 175,21 V 3"
+         id="path1853-18-3-5-4-8-7"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="118"
+         y="-1"
+         id="text7349-08-3-0-7"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-4-3"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="118"
+           y="-1">5.6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="146"
+         y="14"
+         id="text7349-08-3-0-7-2"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-4-3-2"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="146"
+           y="14">2.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:2.64583"
+         x="164"
+         y="19"
+         id="text7349-08-3-0-7-2-0"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-4-3-2-0"
+           style="font-size:4.5px;text-align:start;text-anchor:start;stroke-width:2.64583"
+           x="164"
+           y="19">0.9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:2.64583"
+         x="94"
+         y="29"
+         id="text7349-08-3-0-7-2-0-8"><tspan
+           sodipodi:role="line"
+           style="font-size:4.5px;text-align:start;text-anchor:start;stroke-width:2.64583"
+           x="94"
+           y="29"
+           id="tspan175667">0.2 thickness</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="78"
+         y="-1"
+         id="text7349-08-3-0-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-4-3-5"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="78"
+           y="-1">2.4</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 176,2 H 149"
+         id="path27547-4-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 176,22 H 107"
+         id="path27547-4-0-3-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 146,1 V -1"
+         id="path27547-4-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-2);marker-end:url(#TriangleOutM-16-7-8-6)"
+         d="m 91,0 h 54"
+         id="path1853-18-3-5-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-2-9);marker-end:url(#TriangleOutM-16-7-8-6-4)"
+         d="m 137,15 h 18"
+         id="path1853-18-3-5-8-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-16-7-8-6-4-5)"
+         d="m 94,17 v 2"
+         id="path1853-18-3-5-8-1-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-16-7-8-6-4-5-0)"
+         d="M 94,25 V 23"
+         id="path1853-18-3-5-8-1-6-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-2-2);marker-end:url(#TriangleOutM-16-7-8-6-5)"
+         d="M 67,0 H 89"
+         id="path1853-18-3-5-8-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 90,9 V -1"
+         id="path27547-4-0-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 66,5 V -1"
+         id="path27547-4-0-5-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 20,25 V 23"
+         id="path27547-4-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 55,25 V 23"
+         id="path27549-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 98,19 V 13"
+         id="path27549-6-6"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:2.64583"
+         x="60"
+         y="18"
+         id="text7349-1-7-6-2"><tspan
+           sodipodi:role="line"
+           style="font-size:4.5px;text-align:start;text-anchor:start;stroke-width:2.64583"
+           x="60"
+           y="18"
+           id="tspan21470-3">1.2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;white-space:pre;inline-size:22;stroke-width:2.64583"
+         x="178"
+         y="14"
+         id="text7349-1-7-6-2-8-3"
+         transform="translate(20,-1)"><tspan
+           x="178"
+           y="14"
+           id="tspan239693"><tspan
+             style="text-align:start;text-anchor:start"
+             id="tspan239691">2.0</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 136,16 V 14"
+         id="path27547-4-0-3-9-7-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 156,16 V 14"
+         id="path27547-4-0-3-9-7-6-6"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g110329-6-2"
+       transform="translate(-20,198.0045)">
+      <path
+         id="rect850-0-6-8-6"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 55,7.9955 h 9 v 3 h 17 v -3 h 9 v 12 H 55 Z"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         id="rect850-0-2-1-1-1"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 81,9.9955 H 80 L 66,5.991 l 1,-2 14,4.0045"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect850-0-2-3-9-0-0"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 55,19.9955 H 20 v -14 h 8 l 1,12 h 8 l 1,-10 h 10 l 1,10 h 6"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="rect850-0-6-5-1-0-5-1-5"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 49,19.9955 v -2"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-2-5-0-4-1"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 157,14.9955 h 7 v 2 h -7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect850-0-2-0-6-9-4"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 90,17.9955 h 7 l 39,-3 9,-9 h 2 l 9,9 h 1 v 2 h -2 l -9,-9 -9,9 -39,3 h -8"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         id="rect850-0-6-8-6-2"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 55,-4.0045 h 9 v -3 h 17 v 3 h 9 v -12 H 55 Z"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         id="rect850-0-6-8-6-2-7"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 30,-16.0045 h 150 l 0,-6 H 30 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect850-0-6-8-6-2-7-4"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 30,25.9955 h 150 v -6 H 30 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect850-0-6-8-6-2-7-0"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 159,-11.0045 -6,5 h 17 l 10,-3 v -2 z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="rect850-0-6-8-6-2-7-0-3"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 159,14.9955 -6,-5 h 17 l 10,3 v 2 z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="rect850-0-2-1-1-1-9"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 81,-6.0045 h -1 l -14,4 1,2 14,-4"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect850-0-2-3-9-0-0-1"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 55,-16.0045 H 20 v 14 h 8 l 1,-12 h 8 l 1,10 h 10 l 1,-10 h 6"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="rect850-0-6-5-1-0-5-1-5-8"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 49,-16.0045 v 2"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-2-5-0-4-1-9"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 157,-11.0045 h 7 v -2 h -7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect850-0-2-0-6-9-4-6"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 90,-14.0045 h 7 l 39,3 9,9 h 2 l 9,-9 h 1 v -2 h -2 l -9,9 -9,-9 -39,-3 h -8"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         id="rect850-0-6-8-6-2-7-2"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 30,6.9955 35,0 v -3 h 5 v -4 h -5 v -3 l -35,0 z"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       id="g110329-6-7"
+       transform="translate(0,65)">
+      <path
+         id="rect850-0-6-5"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 55,5 H 90 V 20 H 55 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect850-0-6-5-1-00"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 64,7 H 81"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-6-5-1-00-4"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 64,18 H 81"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-6-5-1-0"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 64,5 V 7 H 55"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect850-0-6-5-1-0-7"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 29,5 V 7 H 20"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect850-0-6-5-1-0-7-2"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 29,20 V 18 H 20"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect850-0-6-5-1-0-4"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 55,18 h 9 l 10e-7,2"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect850-0-6-5-1-3"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 81,5 V 9 H 66 v 7 h 15 v 4"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="rect850-0-6-5-5"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 90,6 3,2 h 64 V 7 l 1,-1 h 5 l 1,1 v 11 l -1,1 h -5 l -1,-1 V 17 H 93 l -3,2"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         id="rect850-0-6-5-5-4-5-7-6"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 136,8 v 9"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-6-5-5-4-5-7-6-9"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 146,8 v 9"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-6-5-5-4-5-7-6-9-6"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 156,8 v 9"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect850-0-2-3-9-1"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="m 55,19 -2,-1 h -2 l -3,2 H 20 V 5 h 28 l 3,2 h 2 l 2,-1"
+         sodipodi:nodetypes="cccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="20"
+         y="30"
+         id="text112515-0-2"><tspan
+           sodipodi:role="line"
+           style="font-size:6px;stroke-width:0.264583"
+           x="20"
+           y="30"
+           id="tspan54027">Crimp pin top</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6px;stroke-width:0.264583"
+           x="20"
+           y="37.5"
+           id="tspan54031" /></text>
+      <path
+         id="rect850-0-6-5-1-0-5"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 48,5 V 7 H 37 V 5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect850-0-6-5-1-0-5-9"
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4.05128;stroke-dasharray:none;stop-color:#000000"
+         d="M 48,20 V 18 H 37 v 2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 90,4 V 2"
+         id="path27547-4-99"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 164,5 V 2"
+         id="path27547-4-96"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-29);marker-end:url(#TriangleOutM-16-7-8-69)"
+         d="m 91,3 h 72"
+         id="path1853-18-3-5"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="127"
+         y="2"
+         id="text7349-08-3-0"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-4"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="127"
+           y="2">7.4</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-9-0-9);marker-end:url(#TriangleOutM-16-7-8-9-6)"
+         d="m 158,21 h 5"
+         id="path1853-18-3-5-4"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.64583"
+         x="161"
+         y="26"
+         id="text7349-08-3-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan7347-2-3-4-4"
+           style="font-size:4.5px;text-align:center;text-anchor:middle;stroke-width:2.64583"
+           x="161"
+           y="26">0.7</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 157,22 V 20"
+         id="path27547-4-0-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 164,22 V 20"
+         id="path27547-4-0-3-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 167,6 h -2"
+         id="path27547-4-0-3-9-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 167,19 h -2"
+         id="path27547-4-0-3-9-0-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-8-2);marker-end:url(#TriangleOutM-16-7-3-8)"
+         d="M 88,19 V 6"
+         id="path1853-18-3-6-3"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:2.64583"
+         x="87"
+         y="14"
+         id="text7349-1-7-6-2-8-8"><tspan
+           sodipodi:role="line"
+           style="font-size:4.5px;text-align:end;text-anchor:end;stroke-width:2.64583"
+           x="87"
+           y="14"
+           id="tspan21470-3-0-69">1.4</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-8-2-3);marker-end:url(#TriangleOutM-16-7-3-8-2)"
+         d="M 101,16 V 9"
+         id="path1853-18-3-6-3-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3-8-2-3-8);marker-end:url(#TriangleOutM-16-7-3-8-2-7)"
+         d="M 166,18 V 7"
+         id="path1853-18-3-6-3-1-5"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;stroke-width:2.64583"
+         x="100"
+         y="14"
+         id="text7349-1-7-6-2-8-8-0"><tspan
+           sodipodi:role="line"
+           style="font-size:4.5px;text-align:end;text-anchor:end;stroke-width:2.64583"
+           x="100"
+           y="14"
+           id="tspan21470-3-0-69-0">0.9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.5px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:2.64583"
+         x="167"
+         y="14"
+         id="text7349-1-7-6-2-3"><tspan
+           sodipodi:role="line"
+           style="font-size:4.5px;text-align:start;text-anchor:start;stroke-width:2.64583"
+           x="167"
+           y="14"
+           id="tspan21470-3-09">1.3</tspan></text>
+    </g>
+  </g>
+</svg>
