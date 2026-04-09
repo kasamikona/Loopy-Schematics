@@ -5,8 +5,8 @@
 	(uuid "5b42077d-e433-47bd-b27b-353a0b1c0ce8")
 	(paper "A4")
 	(title_block
-		(title "Casio Loopy IO Board")
-		(rev "MA2MC")
+		(comment 3 "github.com/kasamikona/Loopy-Schematics")
+		(comment 4 "Reverse-engineered by Kasami with help from the Loopy community")
 	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_Switch"

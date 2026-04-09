@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "813e74c8-3a73-4830-af5e-d83419be2fb7")
 	(paper "A5")
+	(title_block
+		(comment 3 "github.com/kasamikona/Loopy-Schematics")
+		(comment 4 "Reverse-engineered by Kasami with help from the Loopy community")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x07_Pin"
 			(pin_names
