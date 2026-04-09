@@ -1,0 +1,106 @@
+PCBs:
+    JCM632-AN1M:
+        SOP-44 ROM, max 16Mbit
+        SOP-28 SRAM, battery backed, max 64Kbit?
+        Series resistors on ROM data pins (not SRAM)
+        Pullup/pulldown resistor places for PB1 and PB3
+        DET shorted to VCC
+        /RESET weak pulldown, high enables SRAM with CS2
+    Z544-1:
+        Also known as A240427-1 (rev A) or A240427B-1 (rev B)
+        2x SOP-44 ROM (max 32Mbit total)
+        Single chip config: max 32Mbit
+        Dual chip config: max 16+8Mbit
+        SOP-28 SRAM, battery backed, max 64Kbit?
+        Series resistors on data pins
+        Pullup resistor place for PB3
+        DET shorted to VCC
+        Revision B adds a capacitor on /RD, unknown purpose
+        Expansion audio (OPTIONAL):
+            OKI MSM6653A-xxx (MCU type, samples in mask rom)
+            PB1 = OKI RESET
+            PB5 = OKI CMD
+            PB7 = OKI NAR
+            PB8 = OKI CH
+            PB10 = OKI ST
+            74HC273A latch (D0-D6)
+            4.096MHz resonator
+            BA15218 audio op amp
+    Z545-1 PCB:
+        Also known as A240570-1
+        SOP-44 ROM (max 32Mbit, known games use 16Mbit)
+        SOP-28 SRAM, battery backed, 64Kbit or 256Kbit
+        Series resistors on ROM data pins (not SRAM)
+        Pullup resistor places for PB1, PB3, PB15
+        Jumper for DET to VCC or PB1
+        /RESET 100K pulldown, high enables SRAM with CS2 or extra logic
+    Z542 PCB set:
+        Bespoke for Magical Shop
+        Z542-1 lower board:
+            SOP-44 ROM
+            RH-7502 video capture ASIC
+            TLC2932 PLL, probably used by ASIC for sample clock
+        Z542-2 upper board:
+            Cartridge passthrough
+            CXA1228S NTSC/PAL to YPbPr decoder (wired for NTSC)
+            Audio buffer/mixer for input and passthrough audio
+Games:
+    XK-401 Anime Land:
+        PCB: JCM632-AN1M
+        ROM: 16Mbit
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup
+    XK-402 HARIHARI Seal Paradise:
+        PCB: JCM632-AN1M
+        ROM: 16Mbit
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup
+    XK-403 Dream Change Kokinchan no Fashion Party:
+        PCB: JCM632-AN1M
+        ROM: 16Mbit
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup
+    XK-404 Nigaoe Artist:
+        PCB: JCM632-AN1M
+        ROM: 16Mbit
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup
+    XK-405 Chakrakun no Omajinai Paradise:
+        PCB: JCM632-AN1M
+        ROM: 16Mbit
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup
+    XK-501 Wanwan Aijou Monogatari:
+        PCB: Z544-1 (rev A)
+        ROM: 16Mbit (dual chip config, 16+0)
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB3=pullup
+        Expansion audio: MSM6653A-457 (22x ADPCM samples in ROM)
+    XK-502 PC Collection:
+        PCB: Z545-1
+        ROM: 16Mbit
+        SRAM: 256Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup, PB15=open, DET=short
+    XK-503 Little Romance:
+        PCB: Z544-1 (rev B)
+        ROM: 24Mbit (dual chip config, 16+8)
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB3=pullup
+        Expansion audio: none
+    XK-504 Loopy Town:
+        PCB: Z544-1 (rev B)
+        ROM: 24Mbit (dual chip config, 16+8)
+        SRAM: 64Kbit (battery backed)
+        Jumpers: PB3=pullup
+        Expansion audio: none
+    XK-700 Magical Shop:
+        PCB: Z542-1 + Z542-2
+        ROM: 8Mbit
+        SRAM: none
+        Jumpers: ?
+        Video standard: NTSC
+    XK-701 Lupiton no Wonder Palette:
+        PCB: Z545-1
+        ROM: 16Mbit
+        SRAM: 256Kbit (battery backed)
+        Jumpers: PB1=pullup, PB3=pullup, PB15=pullup, DET=PB1
