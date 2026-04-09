@@ -1,7 +1,7 @@
 # Casio Loopy Schematics
 
 Schematics for various parts of, and accessories for, the Casio Loopy.
-These are provided in KiCad (7.0) schematic file format without PCB data.  
+These are provided in KiCad (9.0) schematic file format without PCB data.  
 
 ## Related repositories
 
