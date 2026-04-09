@@ -1,9 +1,11 @@
-# PCBs (no useful PCB files yet so don't waste space)
+# KiCad PCBs (no useful PCB files yet so don't waste space)
 *.kicad_pcb
 
+# KiCad lock files
+*.lck
 
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
+
+### KiCad standard ignore list
 
 # Temporary files
 *.000
