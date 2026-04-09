@@ -804,293 +804,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Opamp_Dual"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "Opamp_Dual"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Dual operational amplifier"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Name" "kicad_builtin_opamp_dual"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Device" "SUBCKT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "dual opamp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* MSOP*3x3mm*P0.65mm* SSOP*2.95x2.8mm*P0.65mm* TSSOP*3x3mm*P0.65mm* VSSOP*P0.5mm* TO?99*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Opamp_Dual_1_1"
-				(polyline
-					(pts
-						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -7.62 2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "Opamp_Dual_2_1"
-				(polyline
-					(pts
-						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -7.62 2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "Opamp_Dual_3_1"
-				(pin power_in line
-					(at -2.54 7.62 270)
-					(length 3.81)
-					(name "V+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -2.54 -7.62 90)
-					(length 3.81)
-					(name "V-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1205,6 +918,260 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "loopy-parts:BA15218F"
+			(pin_names
+				(offset 0.127)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BA15218F"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "dual opamp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BA15218F_1_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "BA15218F_2_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "BA15218F_3_1"
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 3.81)
+					(name "_{V+}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -7.62 90)
+					(length 3.81)
+					(name "_{V-}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1442,13 +1409,37 @@
 			(embedded_fonts no)
 		)
 	)
-	(bezier
-		(pts
-			(xy 90.17 69.85) (xy 91.44 71.12) (xy 93.98 76.2) (xy 96.52 82.55)
-		)
+	(rectangle
+		(start 130.81 130.81)
+		(end 138.43 133.35)
 		(stroke
 			(width 0)
 			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 567e5978-5de9-4672-8426-86749e071ab3)
+	)
+	(rectangle
+		(start 95.25 130.81)
+		(end 102.87 133.35)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6227becf-483d-4828-8064-65f37d5bd922)
+	)
+	(bezier
+		(pts
+			(xy 88.9 71.12) (xy 91.44 73.66) (xy 100.33 78.74) (xy 102.87 81.28)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
 		)
 		(fill
 			(type none)
@@ -1457,10 +1448,10 @@
 	)
 	(bezier
 		(pts
-			(xy 81.28 69.85) (xy 86.36 69.85) (xy 87.63 67.31) (xy 90.17 69.85)
+			(xy 74.93 71.12) (xy 87.63 71.12) (xy 86.36 68.58) (xy 88.9 71.12)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type solid)
 		)
 		(fill
@@ -1468,9 +1459,9 @@
 		)
 		(uuid cae2a78d-822d-4ed8-9d46-c36a73f5dc3c)
 	)
-	(text "~10.6KHz 0dB"
+	(text "~10.5K 0dB"
 		(exclude_from_sim no)
-		(at 90.17 72.39 0)
+		(at 88.9 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1479,16 +1470,48 @@
 		)
 		(uuid "0b5ecafe-2b08-4a13-93ce-177820f6737d")
 	)
-	(text "THEORETICAL"
+	(text "fs = 84864Hz"
 		(exclude_from_sim no)
-		(at 107.95 71.12 0)
+		(at 35.56 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
+		(uuid "3ca5a6f2-6736-41a3-9a15-aa8df5b27b91")
+	)
+	(text "Based on data from http://sim.okawa-denshi.jp/en/Sallen3tool.php"
+		(exclude_from_sim no)
+		(at 63.5 83.82 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left top)
+		)
+		(uuid "44274940-a121-411e-b5e3-70b0a4fae79b")
+	)
+	(text "Theoretical frequency response"
+		(exclude_from_sim no)
+		(at 63.5 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
 		(uuid "620c007f-d923-4252-be16-a182f5b19f17")
+	)
+	(text "10KHz"
+		(exclude_from_sim no)
+		(at 88.9 82.55 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "749c8c7c-e80e-4cf6-b5c9-530aa961f43e")
 	)
 	(text "Input Coupling"
 		(exclude_from_sim no)
@@ -1501,9 +1524,29 @@
 		)
 		(uuid "7a025501-495d-4521-b5ce-c1e3d4cf98d0")
 	)
-	(text "1KHz +0.1dB"
+	(text "100KHz"
 		(exclude_from_sim no)
-		(at 73.66 67.31 0)
+		(at 102.87 82.55 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "7a15682f-4b6b-4bdf-b4bb-172ef1ef9435")
+	)
+	(text "1KHz"
+		(exclude_from_sim no)
+		(at 74.93 82.55 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "7b5a8e5b-d623-46f3-8162-783f4a68209b")
+	)
+	(text "1K +0.1dB"
+		(exclude_from_sim no)
+		(at 74.93 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1511,6 +1554,17 @@
 			(justify bottom)
 		)
 		(uuid "8c283e4e-b060-47c7-bb3f-06efb8dd0c03")
+	)
+	(text "-20dB"
+		(exclude_from_sim no)
+		(at 67.31 75.565 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right)
+		)
+		(uuid "8e13f9af-81f6-4e39-b932-924ed8684d70")
 	)
 	(text "~300kHz LPF"
 		(exclude_from_sim no)
@@ -1523,6 +1577,17 @@
 		)
 		(uuid "91359322-10c8-45fa-ab12-19236dcce54d")
 	)
+	(text "-14dB/oct"
+		(exclude_from_sim no)
+		(at 93.98 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right top)
+		)
+		(uuid "939424f7-80de-4f84-9b0c-2d48672814ae")
+	)
 	(text "Virtual ground"
 		(exclude_from_sim no)
 		(at 128.27 64.77 0)
@@ -1534,9 +1599,20 @@
 		)
 		(uuid "b2ab4442-c78c-42b9-b414-034e534b78d7")
 	)
-	(text "7.5KHz +4.8dB"
+	(text "0dB"
 		(exclude_from_sim no)
-		(at 87.63 66.04 0)
+		(at 67.31 71.12 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right)
+		)
+		(uuid "b2dcc823-80c6-4cfc-afdc-001653510a14")
+	)
+	(text "7.5K +4.8dB"
+		(exclude_from_sim no)
+		(at 86.36 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1556,7 +1632,7 @@
 		)
 		(uuid "c07763de-c5e7-4160-86d1-add011d35c7e")
 	)
-	(text "Gain ~6.8x"
+	(text "Gain 6.8x"
 		(exclude_from_sim no)
 		(at 113.03 33.02 0)
 		(effects
@@ -1567,7 +1643,7 @@
 		)
 		(uuid "c1c74648-74f8-4c32-a76a-ee73e60c3a2e")
 	)
-	(text "Gain ~1.0x"
+	(text "Gain 1.0x"
 		(exclude_from_sim no)
 		(at 113.03 64.77 0)
 		(effects
@@ -1610,6 +1686,17 @@
 			(justify left top)
 		)
 		(uuid "d88ae67c-0663-47b7-990a-aa90926ef387")
+	)
+	(text "-40dB"
+		(exclude_from_sim no)
+		(at 67.31 80.01 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right)
+		)
+		(uuid "dac8538c-e1ad-46d7-8f63-053c8a49e999")
 	)
 	(text "AV Receiver"
 		(exclude_from_sim no)
@@ -1657,7 +1744,7 @@
 	)
 	(text "Polarized caps in audio path should be electrolytic >= 10uF"
 		(exclude_from_sim no)
-		(at 63.5 139.7 0)
+		(at 60.96 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1677,14 +1764,14 @@
 		)
 		(uuid "ea3a7a85-6c06-4b84-acff-d8f4707405f8")
 	)
-	(text "85KHz -43dB"
+	(text "85K\n-43dB"
 		(exclude_from_sim no)
-		(at 93.98 80.01 0)
+		(at 101.6 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify bottom)
 		)
 		(uuid "ecc4041a-590e-4643-a878-d27eeab0a50b")
 	)
@@ -2034,7 +2121,7 @@
 	)
 	(polyline
 		(pts
-			(xy 66.04 82.55) (xy 99.06 82.55)
+			(xy 67.31 81.28) (xy 105.41 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2074,10 +2161,10 @@
 	)
 	(polyline
 		(pts
-			(xy 66.04 69.85) (xy 81.28 69.85)
+			(xy 67.31 71.12) (xy 74.93 71.12)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type solid)
 		)
 		(uuid "19af8e60-5cbe-4ab4-b287-0e2ab217c67e")
@@ -2211,6 +2298,16 @@
 			(type dash)
 		)
 		(uuid "37cc76d3-7847-4456-a28f-7ddadaa4abd4")
+	)
+	(polyline
+		(pts
+			(xy 101.6 80.01) (xy 101.6 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cdb9dfb-c49e-4264-af1f-106d493609cc")
 	)
 	(wire
 		(pts
@@ -2521,16 +2618,6 @@
 			(type default)
 		)
 		(uuid "717dd517-9caf-408c-832c-87669658ed68")
-	)
-	(polyline
-		(pts
-			(xy 81.28 69.85) (xy 81.28 69.85)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "72bd821c-01c2-4ba7-817b-df310254109e")
 	)
 	(wire
 		(pts
@@ -3084,7 +3171,7 @@
 	)
 	(polyline
 		(pts
-			(xy 66.04 66.04) (xy 66.04 82.55)
+			(xy 67.31 67.31) (xy 67.31 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3184,7 +3271,7 @@
 	)
 	(polyline
 		(pts
-			(xy 73.66 67.31) (xy 73.66 68.58)
+			(xy 74.93 68.58) (xy 74.93 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3194,7 +3281,7 @@
 	)
 	(polyline
 		(pts
-			(xy 90.17 72.39) (xy 90.17 71.12)
+			(xy 88.9 73.025) (xy 88.9 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3262,6 +3349,16 @@
 		)
 		(uuid "d1235e8c-fb33-4aca-85dd-50f9cd93d344")
 	)
+	(polyline
+		(pts
+			(xy 94.615 77.47) (xy 95.885 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2babcd4-21c5-4702-bd93-b99d3f179a3d")
+	)
 	(wire
 		(pts
 			(xy 121.92 38.1) (xy 127 38.1)
@@ -3324,7 +3421,7 @@
 	)
 	(polyline
 		(pts
-			(xy 87.63 66.04) (xy 87.63 67.31)
+			(xy 86.995 68.58) (xy 86.995 69.85)
 		)
 		(stroke
 			(width 0)
@@ -4002,7 +4099,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Opamp_Dual")
+		(lib_id "loopy-parts:BA15218F")
 		(at 99.06 38.1 0)
 		(mirror x)
 		(unit 1)
@@ -4019,7 +4116,7 @@
 				)
 			)
 		)
-		(property "Value" "BA15218"
+		(property "Value" "BA15218F"
 			(at 100.33 45.72 0)
 			(effects
 				(font
@@ -4051,6 +4148,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
@@ -4256,7 +4354,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Opamp_Dual")
+		(lib_id "loopy-parts:BA15218F")
 		(at 134.62 134.62 90)
 		(mirror x)
 		(unit 3)
@@ -4273,7 +4371,7 @@
 				)
 			)
 		)
-		(property "Value" "BA15218"
+		(property "Value" "BA15218F"
 			(at 134.62 129.54 90)
 			(effects
 				(font
@@ -4305,6 +4403,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
@@ -6625,7 +6724,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Opamp_Dual")
+		(lib_id "loopy-parts:BA15218F")
 		(at 99.06 134.62 90)
 		(mirror x)
 		(unit 3)
@@ -6642,7 +6741,7 @@
 				)
 			)
 		)
-		(property "Value" "BA15218"
+		(property "Value" "BA15218F"
 			(at 99.06 129.54 90)
 			(effects
 				(font
@@ -6674,6 +6773,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
@@ -7870,7 +7970,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Opamp_Dual")
+		(lib_id "loopy-parts:BA15218F")
 		(at 99.06 96.52 0)
 		(mirror x)
 		(unit 2)
@@ -7887,7 +7987,7 @@
 				)
 			)
 		)
-		(property "Value" "BA15218"
+		(property "Value" "BA15218F"
 			(at 100.33 104.14 0)
 			(effects
 				(font
@@ -7919,6 +8019,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
@@ -8321,7 +8422,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Opamp_Dual")
+		(lib_id "loopy-parts:BA15218F")
 		(at 134.62 40.64 0)
 		(mirror x)
 		(unit 1)
@@ -8338,7 +8439,7 @@
 				)
 			)
 		)
-		(property "Value" "BA15218"
+		(property "Value" "BA15218F"
 			(at 134.62 49.53 0)
 			(effects
 				(font
@@ -8370,6 +8471,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
@@ -8771,7 +8873,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Opamp_Dual")
+		(lib_id "loopy-parts:BA15218F")
 		(at 134.62 93.98 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8781,15 +8883,15 @@
 		(fields_autoplaced yes)
 		(uuid "f7896290-38d8-446c-a54e-7889497fd0ec")
 		(property "Reference" "IC253"
-			(at 134.62 85.09 0)
+			(at 134.62 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "BA15218"
-			(at 134.62 87.63 0)
+		(property "Value" "BA15218F"
+			(at 134.62 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8820,6 +8922,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
