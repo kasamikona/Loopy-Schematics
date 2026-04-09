@@ -52,8 +52,9 @@ R523 0.3R
 VR501 ALPS RK09K1110-K20-C1-B103 10K potentiometer center detent (RK09K1110A0J nearest standard part)
 
 Recommended to replace R521 with 4.5K *OR* replace R522 with 1.56K to drop VCC from 5.2v to 5.0v.
-Suggested safe method is to lift one side of R522 and install a 68R resistor in series.
-To fix audio output level (default 62%), replace R262,R265 with around 110K.
+Suggested method is to install 100K in parallel with R521.
+
+To fix audio output level (default 62%), replace R262,R265 with around 110K on mainboard.
 
 
 == Connectors ==
