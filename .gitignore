@@ -1,8 +1,5 @@
-# Gerbers
-gerbers/
-
-# Backups
-*-backups/
+# PCBs (no useful PCB files yet so don't waste space)
+*.kicad_pcb
 
 
 # For PCBs designed using KiCad: https://www.kicad.org/
